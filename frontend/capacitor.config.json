@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.library",
+  "appName": "Library",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
